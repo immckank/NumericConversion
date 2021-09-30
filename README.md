@@ -5,10 +5,6 @@ trans.c
 floattrans.c 
 可以在一定精度上把十进制数转化成二进制的浮点数<br>
 都是utf-8编码<br>
-<br>
-<br>
-<br>
-<br>
 <details>
 <summary>看不到</summary>
 qq 168420328
