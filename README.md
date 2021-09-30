@@ -1,5 +1,5 @@
 # NumericConversion
-计基作业计算器<br>
+`计基作业计算器`<br>
 trans.c 
 可以把十进制数转化为二进制原码和二进制补码<br>
 floattrans.c 
